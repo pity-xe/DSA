@@ -1,0 +1,1 @@
+cout <<"String is palindrome or not: "<<checkpalidrome(name,len);
